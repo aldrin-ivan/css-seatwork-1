@@ -11,7 +11,6 @@ header li a{
     padding: 14px;
     color: white;
     text-decoration: none;
-    background-image: url("http://lolcat.com/img/cat1.jpg")
 }
 header li a:hover{
     background-color: green;
